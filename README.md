@@ -1,2 +1,2 @@
-# Intermediate-Python-Sololearn
-Intermediate Python Sololearn Summary
+# Intermediate Python Sololearn
+Intermediate Python Sololearn Course Summary
